@@ -46,6 +46,16 @@
  * Хранилище сессий - 206 RPS;
  * Хранилище звонков - 3472 RPS.
 
+## Логическая схема БД
+
+Сущности:
+ 1. Пользователь;
+ 2. Звонок;
+ 3. Сессия.
+
+![](https://sun1-23.userapi.com/impg/6xFvILMezTQu6dABu04MNF_vkYdRMLFdMqanEg/3CAYT_YjwVE.jpg?size=827x498&quality=96&sign=d4b60b7a9071ec5df293edce471b6337&type=album)
+
+
 ## Источники информации:
  - https://app2top.ru/industry/igrovoe-chat-prilozhenie-discord-ispol-zuyut-45-mln-chelovek-101159.html
  - https://discord.com/company
