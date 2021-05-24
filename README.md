@@ -53,7 +53,7 @@
  2. Звонок;
  3. Сессия.
 
-![](https://sun1-23.userapi.com/impg/6xFvILMezTQu6dABu04MNF_vkYdRMLFdMqanEg/3CAYT_YjwVE.jpg?size=827x498&quality=96&sign=d4b60b7a9071ec5df293edce471b6337&type=album)
+![](https://sun9-40.userapi.com/impg/Io2p7G-xOIY0tZoFJVODAXPqFRUw5ACFQ4kjNg/WTQDJ5FewQg.jpg?size=878x444&quality=96&sign=434558b354f26b60f1c7e8994cb88c8c&type=album)
 
 ## Физическая схема БД
 
