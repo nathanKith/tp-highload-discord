@@ -69,7 +69,7 @@
 
 ## Схема работы
 
-![](https://sun9-29.userapi.com/impg/e3ebGe-p6eVl1iLG8PglShOBEZXqf07BANkgHQ/U-ze7dqdFTY.jpg?size=543x274&quality=96&sign=0779d08937f4a477e6d6d75d62cde0dd&type=album)
+![](https://sun9-70.userapi.com/impg/d_eIwaZhXyemRSCnHPKy_PFyOcXUnS2IpZkIaQ/BL3PZ_wIrDE.jpg?size=557x337&quality=96&sign=ae5710f12a2ff3fe01f2723f7066bead&type=album)
 
 Узким местом в проектировании сервиса является сервер-хост звонков. Имеено для него дальше проведем расчет по железу.
 
